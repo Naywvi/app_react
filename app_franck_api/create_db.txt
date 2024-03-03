@@ -1,3 +1,0 @@
-use AppFranck
-db.createUser({user: "Appfranck_admin",pwd: "FranckApp2023Grolais",roles: ["userAdmin"]})
-mongo --username Appfranck_admin --password "FranckApp2023Grolais" --authenticationDatabase AppFranck
